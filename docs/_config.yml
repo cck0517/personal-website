@@ -30,7 +30,8 @@ twitter_username:
 github_username:  cck0517
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: Chirpy
 plugins:
   - jekyll-feed
 
